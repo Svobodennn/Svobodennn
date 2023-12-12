@@ -1,9 +1,13 @@
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 <h1 align="center">Hi 👋, I'm Melih Saraç</h1>
 <h3 align="center">A passionate web developer from Turkiye</h3>
 
+- 🔭 I’m currently working on my web development skills
+
 - 🌱 I’m currently learning **Laravel & NodeJS**
 
-- 📫 How to reach me **melih.sarac@hotmail.com**
 
 
 ###
