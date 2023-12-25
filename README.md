@@ -40,7 +40,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/static/v1?message=svobodennn&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:melih.sarac@hotmail.com">
+  <a target="_blank" href="mailto:melih.sarac@hotmail.com">
     <img src="https://img.shields.io/static/v1?message=melih.sarac@hotmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/melihsarac/" target="_blank">
