@@ -50,4 +50,3 @@
 </div>
 
 ###
-  ![snake gif](https://github.com/Svobodennn/Svobodennn/blob/output/github-contribution-grid-snake.gif)
