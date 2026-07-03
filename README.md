@@ -41,6 +41,7 @@ I ship production systems end to end — real-time platforms serving thousands o
 
 | Project | What it is |
 |---|---|
+| [vibecosystem (fork)](https://github.com/Svobodennn/vibecosystem) | My daily-driver fork of the open-source AI software team for Claude Code — extended with a canavar error-learning system, tested shared hook library and agent-monitoring dashboard |
 | [webos](https://github.com/Svobodennn/webos) | PostHog-OS-style web desktop — draggable/resizable window manager with **zero** drag/resize libraries (React + TS + zustand) |
 | [rus-ruleti](https://github.com/Svobodennn/rus-ruleti) | Single-room Russian roulette game in a Soviet-brutalist atmosphere (Electron + Three.js + TS) |
 | [Arabamsende.com](https://arabamsende.com) | Real-time vehicle auction platform — WebSocket bidding engine on Laravel Octane + FrankenPHP |
