@@ -41,8 +41,10 @@ I ship production systems end to end — real-time platforms serving thousands o
 
 | Project | What it is |
 |---|---|
+| [sql-heist](https://sql-heist.vercel.app) | Noir browser game that teaches SQL injection — and how to defend against it. Runs a real SQLite DB in-browser via sql.js (WASM), 100% client-side (Next.js + TS) |
 | [vibecosystem (fork)](https://github.com/Svobodennn/vibecosystem) | My daily-driver fork of the open-source AI software team for Claude Code — extended with a canavar error-learning system, tested shared hook library and agent-monitoring dashboard |
 | [rus-ruleti](https://github.com/Svobodennn/rus-ruleti) | Single-room Russian roulette game in a Soviet-brutalist atmosphere (Electron + Three.js + TS) |
+| [I Want To Ask You Something](https://sana-bisi-sorucam.vercel.app) | A cinematic single-page "will you go on a date?" experience — zero dependencies, PWA, offline-first, backend-less push + email notifications |
 | [Arabamsende.com](https://arabamsende.com) | Real-time vehicle auction platform — WebSocket bidding engine on Laravel Octane + FrankenPHP |
 | [Boostarea.net](https://boostarea.net) | Online gaming services marketplace — full-stack with payment integration |
 
