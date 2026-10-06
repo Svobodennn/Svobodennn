@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Melih Saraç 👋</h1>
 <h3 align="center">Software Engineer — Backend &amp; GenAI</h3>
-<p align="center">📍 Bursa, TR → Warsaw, PL <i>(from Oct 2026)</i></p>
+<p align="center">📍 Bursa, TR</i></p>
 
 <div align="center">
   <a href="https://www.melihsarac.com" target="_blank">
