@@ -55,7 +55,8 @@ I ship production systems end to end — real-time platforms serving thousands o
 </div>
 
 <br/>
-
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=svobodennn&theme=dracula&hide_border=true&area=true" width="96%" alt="activity graph" />
 </div>
+-->
